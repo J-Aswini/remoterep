@@ -1,0 +1,3 @@
+unstage - git reset
+undo last commit - git revert HEAD
+local changes -> stage -> commit
